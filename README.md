@@ -65,7 +65,7 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
 <h3 style="color:a588db"> GUI Development</h3>
 <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/Tkinter-%230096D6?style=flat&logo=python&logoSize=auto&labelColor=%23acd437">
-    <img alt="Static Badge" src="https://img.shields.io/badge/PyQt5-%230096D6?style=flat&logo=python&logoSize=auto&labelColor=%23acd437">
+    <img alt="Static Badge" src="https://img.shields.io/badge/PyQt5-%2341CD52?style=flat&logo=qt&logoSize=auto&labelColor=gray">
 </p>
 
 <!-- Softwares, text editor and produtivity -->
