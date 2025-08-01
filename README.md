@@ -1,9 +1,7 @@
-<h1 style="color:#a588db">Joaquim Armando Dlima Viana </h1>
-
-<h3 style="color:yellow"> Description</h3>
+<h3 style="color:a588db"> Description</h3>
 Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's degree in Mathematics from Pedagogical University Mozambique (2010) and a Master's degree in Practices in Sustainable Development from the Federal Rural University of Rio de Janeiro (2015). Actually is a member of the Brazilian Computer Society (SBC) and a teaching assistant at Lúrio University since 2010. He has experience in the fields of Mathematics and Computer Science, with an emphasis on Data Science, Machine Learning, Deep Learning and Computer Vision.
 
-<h3 style="color:yellow"> Programming and Markup Languages</h3>
+<h3 style="color:a588db"> Programming and Markup Languages</h3>
 
 <p>
       <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
@@ -18,7 +16,7 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
     
   </p>
 
-<h3 style="color:yellow"> Tools and Frameworks</h3>
+<h3 style="color:a588db"> Tools and Frameworks</h3>
 <p>
         <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
      <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a>
@@ -28,7 +26,7 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
         <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white"></a>
     </p>
   
-<h3 style="color:yellow"> Databases and Cloud Hosting</h3>
+<h3 style="color:a588db"> Databases and Cloud Hosting</h3>
   
 <p>
         <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098.svg?logo=heroku&logoColor=white"></a>
