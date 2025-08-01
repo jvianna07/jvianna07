@@ -30,7 +30,7 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
 
      
 <!-- Data Science & Machine Learning Tools -->
-<h3 style="color:a588db">   Data Science & Machine Learning Tools</h3>
+<h3 style="color:a588db">   Data Science and Machine Learning Tools</h3>
 <p>
     <img alt="Static Badge" src="https://img.shields.io/badge/keras-%23D00000?style=flat&logo=Keras&logoSize=auto&labelColor=grey&color=%23D00000">
     <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white">
@@ -43,6 +43,8 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
     <img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat&logo=opencv&logoSize=auto&labelColor=green&color=%235C3EE8">
     <img alt="Static Badge" src="https://img.shields.io/badge/Altair-%230096D6?style=flat&logo=altair&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=PyTorch&logoSize=auto&labelColor=white&color=%23EE4C2C">
+    <img alt="Static Badge" src="https://img.shields.io/badge/YOLO-%23111F68?style=flat&logo=yolo&logoSize=auto">
+
 </p>
 
 
