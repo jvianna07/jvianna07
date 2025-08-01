@@ -37,12 +37,3 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
         <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
     </p>
   
-
-
-<h3 style="color:yellow"> Contacts</h3>
-<p> <strong>E-mail 1:</strong> jviana@unilurio.ac.mz |  <strong>E-mail 2:</strong>  j_vianna07@hotmail.com </p> 
-
-<p> <strong> Orcid: </strong> <a href="#" src="https://orcid.org/0009-0008-0755-6411"> https://orcid.org/0009-0008-0755-6411 </a> </p>
-
-<p> <strong>Lattes CV: </strong> <a href="#" src="http://lattes.cnpq.br/7823646248179652 " >http://lattes.cnpq.br/7823646248179652 </a></p>
-
