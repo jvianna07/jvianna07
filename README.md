@@ -15,7 +15,7 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX-008080.svg?logo=LaTeX&logoColor=white">
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white">
   <img alt="Restructured Text" src="https://img.shields.io/badge/Restructured Text-3a4148.svg?logo=readthedocs&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/sphinx-black?style=flat&logo=sphinx&labelColor=black">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Sphinx-black?style=flat&logo=sphinx&labelColor=black">
 </p>
 
 
@@ -37,11 +37,11 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
     <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white">
     <img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/Matplolib-%23559ced?style=flat&logoSize=auto&labelColor=white">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Scikit_Learn-%23F7931E?style=flat&logo=scikitlearn&logoSize=auto&labelColor=blue&color=%23F7931E">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=flat&logo=scikitlearn&logoSize=auto&labelColor=blue&color=%23F7931E">
     <img alt="Static Badge" src="https://img.shields.io/badge/Scipy-%238CAAE6?style=flat&logo=scipy&logoSize=auto&labelColor=white&color=%238CAAE6">
     <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526.svg?logo=sympy&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/OpenCV-%235C3EE8?style=flat&logo=opencv&logoSize=auto&labelColor=green&color=%235C3EE8">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Altair-%230096D6?style=flat&logo=altair&logoSize=auto">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Vega--Altair-%230096D6?style=flat&logo=altair&logoSize=auto">
     <img alt="Static Badge" src="https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=PyTorch&logoSize=auto&labelColor=white&color=%23EE4C2C">
     <img alt="Static Badge" src="https://img.shields.io/badge/YOLO-%23111F68?style=flat&logo=yolo&logoSize=auto">
 
@@ -78,6 +78,12 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
     <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoSize=auto&labelColor=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/json-%23181717?style=flat&logo=json&logoSize=auto&labelColor=black">
     <img alt="Static Badge" src="https://img.shields.io/badge/GIMP-%238C8073?style=flat&logo=GIMP&logoSize=auto&labelColor=black&color=%238C8073">
+    <img alt="Static Badge" src="https://img.shields.io/badge/anaconda-%2344A833?style=flat&logo=anaconda&logoSize=auto&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/jupyter-%23F37626?style=flat&logo=jupyter&logoSize=auto&labelColor=white">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Linux-%23FCC624?style=flat&logo=linux&logoSize=auto&labelColor=black">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Ubuntu-%23E95420?style=flat&logo=ubuntu&logoSize=auto&labelColor=gray">
+    <img alt="Static Badge" src="https://img.shields.io/badge/macOS-%2300000?style=flat&logo=apple&logoSize=auto&labelColor=gray">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Windows-%2300000?style=flat&logo=windows&logoSize=auto&labelColor=gray&color=blue">
 </p>
 
 
