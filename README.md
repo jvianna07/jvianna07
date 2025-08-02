@@ -10,6 +10,9 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
     <a href="https://www.r-project.org/" target="_blank" rel="noopener noreferrer">
         <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white">
     </a>
+    <a href="https://www.mathworks.com/" target="_blank" rel="noopener noreferrer">
+        <img alt="Static Badge" src="https://img.shields.io/badge/.-MatLab-blue?labelColor=red">
+    </a>
     <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noopener noreferrer">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
     </a>
