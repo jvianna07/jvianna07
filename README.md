@@ -136,6 +136,12 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
 <!-- GUI development -->
 <h3 style="color:a588db"> GUI Development</h3>
 <p>
+    <ahref="#" target="_blank" rel="noopener noreferrer">
+        <img alt="Static Badge" src="https://img.shields.io/badge/flutter-flutter?logo=flutter&color=%2302569B">
+    </a>
+    <ahref="#" target="_blank" rel="noopener noreferrer">
+        <img alt="Static Badge" src="https://img.shields.io/badge/kivy-kivy?color=%2302569B">
+    </a>
     <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noopener noreferrer">
         <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-%230096D6?style=flat&logo=python&logoSize=auto&labelColor=%23acd437">
     </a>
