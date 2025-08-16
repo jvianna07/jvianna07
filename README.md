@@ -13,6 +13,9 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
     <a href="https://www.mathworks.com/" target="_blank" rel="noopener noreferrer">
         <img alt="Static Badge" src="https://img.shields.io/badge/.-MatLab-blue?labelColor=red">
     </a>
+    <ahref="https://dart.dev/" target="_blank" rel="noopener noreferrer">
+        <img alt="Static Badge" src="https://img.shields.io/badge/Dart-Dart?logo=dart&logoColor=black&color=%230175C2">
+    </a>
     <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank" rel="noopener noreferrer">
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black">
     </a>
@@ -136,10 +139,10 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
 <!-- GUI development -->
 <h3 style="color:a588db"> GUI Development</h3>
 <p>
-    <ahref="#" target="_blank" rel="noopener noreferrer">
+    <ahref="https://flutter.dev/" target="_blank" rel="noopener noreferrer">
         <img alt="Static Badge" src="https://img.shields.io/badge/flutter-flutter?logo=flutter&color=%2302569B">
     </a>
-    <ahref="#" target="_blank" rel="noopener noreferrer">
+    <ahref="https://kivy.org/" target="_blank" rel="noopener noreferrer">
         <img alt="Static Badge" src="https://img.shields.io/badge/kivy-kivy?color=%2302569B">
     </a>
     <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noopener noreferrer">
