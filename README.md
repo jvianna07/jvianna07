@@ -49,8 +49,22 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
 </p>
 
 
-<!-- Tools and Frameworks -->
-<h3 style="color:a588db"> Tools and Frameworks</h3>
+<!-- GUI development -->
+<h3 style="color:a588db"> GUI Development</h3>
+<p>
+    <ahref="https://flutter.dev/" target="_blank" rel="noopener noreferrer">
+        <img alt="Static Badge" src="https://img.shields.io/badge/flutter-flutter?logo=flutter&color=%2302569B">
+    </a>
+    <ahref="https://kivy.org/" target="_blank" rel="noopener noreferrer">
+        <img alt="Static Badge" src="https://img.shields.io/badge/kivy-kivy?color=%2302569B">
+    </a>
+    <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noopener noreferrer">
+        <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-%230096D6?style=flat&logo=python&logoSize=auto&labelColor=%23acd437">
+    </a>
+    <a href="https://www.qt.io/" target="_blank" rel="noopener noreferrer">
+        <img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-%2341CD52?style=flat&logo=qt&logoSize=auto&labelColor=gray">
+    </a>
+</p>
 
 <p>
     <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noopener noreferrer">
@@ -136,22 +150,6 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
     </a>
 </p>
 
-<!-- GUI development -->
-<h3 style="color:a588db"> GUI Development</h3>
-<p>
-    <ahref="https://flutter.dev/" target="_blank" rel="noopener noreferrer">
-        <img alt="Static Badge" src="https://img.shields.io/badge/flutter-flutter?logo=flutter&color=%2302569B">
-    </a>
-    <ahref="https://kivy.org/" target="_blank" rel="noopener noreferrer">
-        <img alt="Static Badge" src="https://img.shields.io/badge/kivy-kivy?color=%2302569B">
-    </a>
-    <a href="https://docs.python.org/3/library/tkinter.html" target="_blank" rel="noopener noreferrer">
-        <img alt="Tkinter" src="https://img.shields.io/badge/Tkinter-%230096D6?style=flat&logo=python&logoSize=auto&labelColor=%23acd437">
-    </a>
-    <a href="https://www.qt.io/" target="_blank" rel="noopener noreferrer">
-        <img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-%2341CD52?style=flat&logo=qt&logoSize=auto&labelColor=gray">
-    </a>
-</p>
 
 <!-- Softwares, text editor and produtivity -->
 <h3 style="color:a588db"> Softwares, text editor and produtivity</h3>
