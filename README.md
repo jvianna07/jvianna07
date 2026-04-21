@@ -64,9 +64,6 @@ Ph.D. candidate in Computer Science at UFPA (start 2023), holds a Bachelor's deg
     <a href="https://www.qt.io/" target="_blank" rel="noopener noreferrer">
         <img alt="PyQt5" src="https://img.shields.io/badge/PyQt5-%2341CD52?style=flat&logo=qt&logoSize=auto&labelColor=gray">
     </a>
-</p>
-
-<p>
     <a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noopener noreferrer">
         <img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white">
     </a>
